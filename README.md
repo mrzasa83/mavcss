@@ -12,15 +12,6 @@ This project starts from a popular starter project [AngularClass/AngularStarter]
 * It uses Json-Server as fake Restful API. (You can simply replace it with your own API)
 * CRUD functions for Customer, Order and Product.
 
-#### Screenshots 
-
-![Screenshot1](screenshots/screenshot-1.JPG)
-
-![Screenshot2](screenshots/screenshot-2.JPG)
-
-![Screenshot3](screenshots/screenshot-3.JPG)
-
-![Screenshot4](screenshots/screenshot-4.JPG)
 
 
 ## Build & Setup
@@ -83,10 +74,4 @@ For detailed explanation on how things work, checkout following links please.
 * [angular-material](https://material.angular.io/)
 * [ng-charts](https://github.com/valor-software/ng2-charts)
 
-#### Alternatives
-
-There are some similar projects respectively built on the Vue.js and React. If you have interests in those technical stacks. You can find and clone those repositories below.
-
-* [Vue2Crm](https://github.com/harryho/vue2crm.git).
-* [React-Crm](https://github.com/harryho/react-crm.git).
 
